@@ -98,7 +98,10 @@ section{
 
 section h2 {
     margin: 0;
+    margin-bottom: 20px;
+    color: black;
 }
+
 
 section p {
     margin-top: 0;
@@ -120,6 +123,8 @@ section p {
     text-decoration: none;
     transition: transform 0.3s ease;
 }
+
+
 
 .project:hover {
     transform: scale(1.05);
