@@ -116,7 +116,7 @@ section p {
 
 #projects #main-title{
     margin-bottom: 20px;
-    color: black;
+    color: #ffbe0b;
 }
 
 .project {
@@ -139,6 +139,21 @@ section p {
 .project p {
     font-size: 20px;
     margin-top: 10px;
+}
+
+#tech{
+    background-color: #f1faee;
+    height: 360px;
+}
+
+
+#tech h2 {
+    color: #457b9d;
+    margin: 30px;
+}
+
+.container{
+    color: black;
 }
 
 .bg-pinkish {
