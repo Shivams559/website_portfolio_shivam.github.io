@@ -98,8 +98,7 @@ section{
 
 section h2 {
     margin: 0;
-    margin-bottom: 20px;
-    color: black;
+    
 }
 
 
@@ -115,7 +114,10 @@ section p {
     
 }
 
-
+#projects h2{
+    margin-bottom: 20px;
+    color: black;
+}
 
 .project {
     max-width: 270px;
